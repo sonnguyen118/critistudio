@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.84ee930c.css",
+    "main.js": "./static/js/main.e7ae9da4.js",
+    "static/media/background.mp4": "./static/media/background.fb31f43092014100f5ac.mp4",
+    "static/media/Films_video.mp4": "./static/media/Films_video.3ac02d2eecc1c5f0d2b8.mp4",
+    "static/media/Clother_video.mp4": "./static/media/Clother_video.61cbb1e0ff4adeb6571a.mp4",
+    "static/media/Game_video.mp4": "./static/media/Game_video.3ca5af4b41bb97c0a79c.mp4",
+    "static/media/MDD_copy.png": "./static/media/MDD_copy.5938d5a8c434bc15c84d.png",
+    "static/media/founder_copy.png": "./static/media/founder_copy.0d6ee3700c36cb576b34.png",
+    "static/media/vongnguyetque.png": "./static/media/vongnguyetque.9439f6426259decd556a.png",
+    "static/media/amx-posed.jpg": "./static/media/amx-posed.d6cc6390a8490b4475ea.jpg",
+    "static/media/roger-magrini.jpg": "./static/media/roger-magrini.780483d36bf94f522c16.jpg",
+    "static/media/MDD_e.png": "./static/media/MDD_e.0adbe617330132efeefc.png",
+    "static/media/MDD.png": "./static/media/MDD.8b1709cc36fdf8bab853.png",
+    "static/media/roger.jpg": "./static/media/roger.347bbdd3c4bfe04f7459.jpg",
+    "static/media/Trau.jpg": "./static/media/Trau.46973e92855ae1c43595.jpg",
+    "static/media/getting-started.jpg": "./static/media/getting-started.ac682084c309df6b7aca.jpg",
+    "static/media/CC3_base.jpg": "./static/media/CC3_base.cdf0fd03f9aed2942020.jpg",
+    "static/media/ball2.png": "./static/media/ball2.6acf686b799d3d40a379.png",
+    "static/media/logo-criti_vientrang.png": "./static/media/logo-criti_vientrang.1ded4327d6c7b3e1407a.png",
+    "static/media/logo-criti_copy.png": "./static/media/logo-criti_copy.19fbe3e9c7578788d928.png",
+    "index.html": "./index.html",
+    "main.84ee930c.css.map": "./static/css/main.84ee930c.css.map",
+    "main.e7ae9da4.js.map": "./static/js/main.e7ae9da4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84ee930c.css",
+    "static/js/main.e7ae9da4.js"
+  ]
+}

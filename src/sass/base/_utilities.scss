@@ -1,0 +1,82 @@
+.u-margin-top-sm {
+    margin-top: 2rem !important;
+}
+
+.u-margin-top-md {
+    margin-top: 4rem !important;
+}
+
+.u-margin-top-lg {
+    margin-top: 8rem !important;
+}
+
+.no-margin-left{
+    margin-left: 0px !important;
+}
+
+.block{
+    display:block !important;
+}
+.none{
+    display:none !important;
+}
+.textActivate{
+    color:$color-primary !important;
+}
+.navbarActivate{
+    color:$color-primary !important;
+    border-bottom: 2px solid $color-primary !important;
+
+}
+.navbarHomeActivate{
+    border-bottom: 3px solid $color-primary !important;
+}
+
+
+//<Suspense fallback
+.box_Suspense{
+    padding-top:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.container_Suspense{
+    height: 15px;
+    width: 105px;
+    display: flex;
+    position: relative;
+.circle_Suspense{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    background-color: #ccc;
+    animation: move 500ms linear 0ms infinite;
+    margin-right: 30px;
+      
+    &:first-child{
+        position: absolute;
+        top:0;
+        left:0;
+        animation: grow 500ms linear 0ms infinite;
+    }
+      
+    &:last-child{
+        position: absolute;
+        top: 0;
+        right: 0;
+        margin-right: 0;
+        animation: grow 500ms linear 0s infinite reverse;
+      }
+    }
+  }
+  
+@keyframes grow {
+    from {transform: scale(0,0); opacity: 0;}
+    to {transform: scale(1,1); opacity: 1;}
+}
+  
+@keyframes move {
+    from {transform: translateX(0px)}
+    to {transform: translateX(45px)}
+}
